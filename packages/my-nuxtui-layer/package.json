@@ -1,0 +1,6 @@
+{
+  "name": "@layers/my-nuxtui-layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./nuxt.config.ts"
+}
